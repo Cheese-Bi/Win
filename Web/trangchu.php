@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <?echo php '<p> Demo </p>'; ?>
     <div id="menu_top">
         <div class="menutop">
             <ul>
