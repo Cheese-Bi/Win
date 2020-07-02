@@ -16,7 +16,7 @@
                    </head>
                
                    <body id="home">
-                     <?php echo'<p></p>'; ?>
+                     <?php echo'<p>Bi xinh dep</p>'; ?>
                       
                       <div class="wrapper">
                          <div class="header">
